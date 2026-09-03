@@ -1,0 +1,2 @@
+time_s,x,y,z,vx,vy,vz,roll,pitch,yaw,p,q,r,rpm1,rpm2,rpm3,rpm4,x_cmd,y_cmd,z_cmd,Fx_ext,Fy_ext,Fz_ext
+0.00,0,0,0.10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
