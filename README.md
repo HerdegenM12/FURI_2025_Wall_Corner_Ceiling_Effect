@@ -1,4 +1,4 @@
-### ASU RISE Lab FURI UAV Flight Analysis
+# ASU RISE Lab FURI UAV Flight Analysis
 
 **Researcher:** Matthew Herdegen
 **Institution:** Arizona State University
